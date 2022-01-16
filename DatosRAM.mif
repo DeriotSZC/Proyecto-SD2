@@ -1,0 +1,80 @@
+-- Copyright (C) 2020  Intel Corporation. All rights reserved.
+-- Your use of Intel Corporation's design tools, logic functions 
+-- and other software and tools, and any partner logic 
+-- functions, and any output files from any of the foregoing 
+-- (including device programming or simulation files), and any 
+-- associated documentation or information are expressly subject 
+-- to the terms and conditions of the Intel Program License 
+-- Subscription Agreement, the Intel Quartus Prime License Agreement,
+-- the Intel FPGA IP License Agreement, or other applicable license
+-- agreement, including, without limitation, that your use is for
+-- the sole purpose of programming logic devices manufactured by
+-- Intel and sold by Intel or its authorized distributors.  Please
+-- refer to the applicable agreement for further details, at
+-- https://fpgasoftware.intel.com/eula.
+
+-- Quartus Prime generated Memory Initialization File (.mif)
+
+WIDTH=18;
+DEPTH=256;
+
+ADDRESS_RADIX=UNS;
+DATA_RADIX=UNS;
+
+CONTENT BEGIN
+	0    :   67228;
+	1    :   93839;
+	2    :   98048;
+	3    :   120583;
+	4    :   140568;
+	5    :   82524;
+	6    :   51343;
+	7    :   86724;
+	8    :   153845;
+	9    :   111850;
+	10   :   128265;
+	11   :   20560;
+	12   :   121621;
+	13   :   65678;
+	14   :   92866;
+	15   :   137882;
+	16   :   46629;
+	17   :   45704;
+	18   :   91863;
+	19   :   31860;
+	20   :   66147;
+	21   :   82622;
+	22   :   117547;
+	23   :   118017;
+	24   :   117530;
+	25   :   145664;
+	26   :   138003;
+	27   :   94349;
+	28   :   79554;
+	29   :   111326;
+	30   :   63076;
+	31   :   46218;
+	32   :   56938;
+	33   :   30775;
+	34   :   71403;
+	35   :   138376;
+	36   :   93850;
+	37   :   57979;
+	38   :   65160;
+	39   :   69322;
+	40   :   111867;
+	41   :   121020;
+	42   :   109798;
+	43   :   126202;
+	44   :   108761;
+	45   :   51839;
+	46   :   45634;
+	47   :   31807;
+	48   :   45156;
+	49   :   67728;
+	50   :   85176;
+	51   :   110313;
+	52   :   130307;
+	53   :   121077;
+	[54..255]  :   0;
+END;
